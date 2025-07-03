@@ -18,8 +18,8 @@ Follow these steps to set up and run the mobile application:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/laribright/gadgets-app-react-native.git
-   cd gadgets-app-react-native
+   git clone https://github.com/Krishnadeshpande2907/Shopping-App.git
+   cd Shopping-App
    ```
 
 2. **Install Dependencies:**
